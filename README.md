@@ -4,4 +4,4 @@ Made Homepage of google, using HTML and CSS for the odin project. Used git to pu
 
 This was pretty interesting to learn, doing stuff all on own and also learnt how to properly use dev tools.
 
-https://poopykun.github.io/google-homepage/ 
+https://shain-dev.github.io/google-homepage/
